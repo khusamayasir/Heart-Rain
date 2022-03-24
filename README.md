@@ -1,2 +1,2 @@
-# Yellow-Heart-Rain
+# Heart-Rain
 A simple JavaScript project.
