@@ -1,5 +1,5 @@
 # Heart-Rain
-A simple JavaScript project.
+A simple JavaScript project..
 
 You can check here: https://heart-rain-khusamayasir.netlify.app/
 
